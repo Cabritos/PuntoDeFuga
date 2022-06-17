@@ -8,4 +8,12 @@ For me it has a very ambitious project. There were tons of things I had no idea 
 
 Someday I would like to gather courage, take it back to zero and turn it into a multiple narratives game -in the spirit of The Stanley Parable (Davey Wreden, 2011)- that revolves around the themes of confinement, loneliness and being in a state of loop.
 
+
 You can play it online on https://sharemygame.com/@Crampantes/punto-de-fuga
+
+
+This is how it started: https://studio.youtube.com/video/Voh02z-6iXI
+
+This is a trailer pretending it's a real game: https://studio.youtube.com/video/_MPqCp1jnFc
+
+This is the game opening scene: https://studio.youtube.com/video/_MPqCp1jnFc
