@@ -1,6 +1,6 @@
 Punto de fuga (Vanishing Point) was the project I worked on for my video game development diploma in Univesidad Tecnológica Nacional (National Technological University).
 
-It consists of a third-person escape room developed over a month of very intense, almost feverish work, enormously challenging but even more enriching.
+It consists of a third-person escape room developed over a month of very intense, almost feverish work against a deadline. Enormously challenging but even more enriching.
 
 It is not and does not pretend to be a display a good game design, it’s script is improvised, the sound rough and the code is not always as elegant as it should be. But hey, It works!
 
